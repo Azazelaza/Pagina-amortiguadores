@@ -39,7 +39,7 @@ const Inicio = () => (
     </div>
 
     <div className="rojito d-flex col-12">
-<img className="position-relative l-3" height="5%" width="5%" src={garantia}/><h2 className="ml-1 mr-1 m-auto ">30 DIAS DE GARANTIA EN TODOS LOS AMORTIGUADORES</h2> <button className="garantia-button">CONOCE MAS</button>
+<img className="position-relative l-3" height="5%" width="5%" src={garantia}/><h2 className="ml-1 mr-1 m-auto ">AMORTIGUADORES NUEVOS Y SEMINUEVOS ORIGINALES (DE AGENCIA)</h2> <button className="garantia-button">CONOCE MAS</button>
     </div>
 
 </div>

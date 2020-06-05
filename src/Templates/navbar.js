@@ -18,6 +18,7 @@ const Navbar = () => (
             <Link to="/Contacto"><li className="navegacion">Contacto</li></Link>
         </ul>
       </nav>
+   <h1> Amortiguadores y Suspensiones el columpio 1</h1>
    </div>
 </div>
 
